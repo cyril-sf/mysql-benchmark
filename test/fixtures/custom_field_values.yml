@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  customer: 
+  custom_field_type: 
+  date_value: 2011-09-26 14:35:20
+  string_value: MyString
+  float_value: 1.5
+  integer_value: 1
+
+two:
+  customer: 
+  custom_field_type: 
+  date_value: 2011-09-26 14:35:20
+  string_value: MyString
+  float_value: 1.5
+  integer_value: 1

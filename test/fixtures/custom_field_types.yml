@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+dog:
+  field_type: 'string'
+  name:       'dog'
+
+age:
+  field_type: 'integer'
+  name:       'age'
